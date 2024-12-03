@@ -1,5 +1,7 @@
 # crowdfunding_ETL
 Project2 - Idrees Andarr-Ingrid Camacho
+
+
 Importing the resources files provided to consolidate the data base we executed the following task in Jupiter with Pandas
   a.Read the data into a Pandas DataFrame for Crowfunding resource file. 
   b.Assigned the category and subcategory values to category and subcategory columns
